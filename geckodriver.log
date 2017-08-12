@@ -1,0 +1,862 @@
+1502561024347	geckodriver	INFO	geckodriver 0.18.0
+1502561024355	geckodriver	INFO	Listening on 127.0.0.1:35253
+1502564273607	geckodriver	INFO	geckodriver 0.18.0
+1502564273617	geckodriver	INFO	Listening on 127.0.0.1:32941
+1502564274749	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502564275337	Marionette	INFO	Enabled via --marionette
+1502564276665	Marionette	INFO	Listening on port 46397
+1502564276782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502564276826	Marionette	DEBUG	loaded listener.js
+1502564280461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502564280943	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502564280943	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502564282203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564282435	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564282443	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564282552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f11e33a44aecc06&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564282554	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f11e33a44aecc06&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564282599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f11e33a44aecc06&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564282601	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f11e33a44aecc06&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564283855	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564283858	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564651016	geckodriver	INFO	geckodriver 0.18.0
+1502564651022	geckodriver	INFO	Listening on 127.0.0.1:41755
+1502564652154	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502564652760	Marionette	INFO	Enabled via --marionette
+1502564654083	Marionette	INFO	Listening on port 34549
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502564654202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502564654243	Marionette	DEBUG	loaded listener.js
+1502564657778	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502564658261	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502564658262	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502564659655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564659876	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564659881	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564659974	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd5beae1ba818e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564659976	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd5beae1ba818e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564660020	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd5beae1ba818e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564660022	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd5beae1ba818e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564661179	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564661182	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564944624	geckodriver	INFO	geckodriver 0.18.0
+1502564944627	geckodriver	INFO	Listening on 127.0.0.1:34729
+1502564945774	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502564946346	Marionette	INFO	Enabled via --marionette
+1502564947771	Marionette	INFO	Listening on port 41286
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502564947788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502564947826	Marionette	DEBUG	loaded listener.js
+1502564950917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502564951247	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502564951248	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502564952585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564952774	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564952780	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564952875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26ba95247de384&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564952877	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26ba95247de384&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564952923	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26ba95247de384&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564952925	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26ba95247de384&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502564954035	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502564954039	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565203216	geckodriver	INFO	geckodriver 0.18.0
+1502565203219	geckodriver	INFO	Listening on 127.0.0.1:37824
+1502565204372	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565204958	Marionette	INFO	Enabled via --marionette
+1502565206226	Marionette	INFO	Listening on port 35153
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565206373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502565206421	Marionette	DEBUG	loaded listener.js
+1502565209246	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565209644	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565209645	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565210751	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565210956	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565210961	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565211061	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fcfbc3288e444c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565211062	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fcfbc3288e444c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565211093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fcfbc3288e444c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565211096	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fcfbc3288e444c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565212169	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565212173	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565237987	geckodriver	INFO	geckodriver 0.18.0
+1502565237991	geckodriver	INFO	Listening on 127.0.0.1:60991
+1502565239136	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565239826	Marionette	INFO	Enabled via --marionette
+1502565241214	Marionette	INFO	Listening on port 45115
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565241351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502565241412	Marionette	DEBUG	loaded listener.js
+1502565244281	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565244690	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565244690	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565245958	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565246144	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565246150	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565246256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f185871b0b72e72&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565246259	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f185871b0b72e72&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565246304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f185871b0b72e72&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565246306	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f185871b0b72e72&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565248415	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565248420	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565334684	geckodriver	INFO	geckodriver 0.18.0
+1502565334687	geckodriver	INFO	Listening on 127.0.0.1:37888
+1502565335844	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565336459	Marionette	INFO	Enabled via --marionette
+1502565337787	Marionette	INFO	Listening on port 35374
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565337904	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502565337948	Marionette	DEBUG	loaded listener.js
+1502565340461	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565340868	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565340869	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565342036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565342361	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565342366	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565342463	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f24aa6c6bab286a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565342464	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f24aa6c6bab286a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565342500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f24aa6c6bab286a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565342503	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f24aa6c6bab286a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565344201	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565344204	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565430453	geckodriver	INFO	geckodriver 0.18.0
+1502565430456	geckodriver	INFO	Listening on 127.0.0.1:33090
+1502565431597	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565432176	Marionette	INFO	Enabled via --marionette
+1502565433485	Marionette	INFO	Listening on port 42619
+1502565433594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565433646	Marionette	DEBUG	loaded listener.js
+1502565436629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565437493	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565437494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565443679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565443937	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565443943	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565444067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f6f241caedc39a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565444069	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f6f241caedc39a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565444116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f6f241caedc39a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565444118	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f6f241caedc39a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565445260	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565445263	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565465475	geckodriver	INFO	geckodriver 0.18.0
+1502565465480	geckodriver	INFO	Listening on 127.0.0.1:49367
+1502565466613	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565467201	Marionette	INFO	Enabled via --marionette
+1502565468724	Marionette	INFO	Listening on port 36023
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565468827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502565468866	Marionette	DEBUG	loaded listener.js
+1502565472653	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565473223	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565473223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565474904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565475229	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565475236	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565475758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f39d50ce17bba9a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565475760	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f39d50ce17bba9a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565475813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f39d50ce17bba9a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565475815	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f39d50ce17bba9a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565476704	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565476707	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565782425	geckodriver	INFO	geckodriver 0.18.0
+1502565782432	geckodriver	INFO	Listening on 127.0.0.1:52630
+1502565783560	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502565784144	Marionette	INFO	Enabled via --marionette
+1502565785473	Marionette	INFO	Listening on port 40289
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502565785589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502565785633	Marionette	DEBUG	loaded listener.js
+1502565788424	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502565788953	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502565788954	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502565791207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565791370	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565791376	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565791515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f226d78f4389388&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565791517	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f226d78f4389388&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565791572	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f226d78f4389388&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565791575	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f226d78f4389388&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502565796845	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502565796849	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571282456	geckodriver	INFO	geckodriver 0.18.0
+1502571282463	geckodriver	INFO	Listening on 127.0.0.1:46006
+1502571283619	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502571284479	Marionette	INFO	Enabled via --marionette
+1502571286021	Marionette	INFO	Listening on port 46364
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502571286144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502571286198	Marionette	DEBUG	loaded listener.js
+1502571289041	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502571289442	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502571289442	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502571290606	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571290831	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571290836	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571290985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2b9f789b8ee34e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571290987	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2b9f789b8ee34e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571291035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2b9f789b8ee34e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571291037	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2b9f789b8ee34e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571292418	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571292421	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571589392	geckodriver	INFO	geckodriver 0.18.0
+1502571589398	geckodriver	INFO	Listening on 127.0.0.1:36276
+1502571590551	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502571591134	Marionette	INFO	Enabled via --marionette
+1502571592563	Marionette	INFO	Listening on port 35890
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502571592709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502571592759	Marionette	DEBUG	loaded listener.js
+1502571595751	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502571596169	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502571596169	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502571597443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571597658	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571597664	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571597780	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2fb08e8f78950c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571597781	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2fb08e8f78950c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571597826	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2fb08e8f78950c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571597828	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2fb08e8f78950c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571598941	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571598945	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571899619	geckodriver	INFO	geckodriver 0.18.0
+1502571899622	geckodriver	INFO	Listening on 127.0.0.1:43878
+1502571900739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502571901304	Marionette	INFO	Enabled via --marionette
+1502571902981	Marionette	INFO	Listening on port 40433
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502571903052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502571903096	Marionette	DEBUG	loaded listener.js
+1502571906316	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502571906944	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502571906945	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502571908022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571908235	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571908241	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571908339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3084a19896cba4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571908341	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3084a19896cba4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571908396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3084a19896cba4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571908398	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3084a19896cba4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502571909486	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502571909489	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572007426	geckodriver	INFO	geckodriver 0.18.0
+1502572007430	geckodriver	INFO	Listening on 127.0.0.1:46878
+1502572008548	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572009172	Marionette	INFO	Enabled via --marionette
+1502572010517	Marionette	INFO	Listening on port 43903
+1502572010626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572010675	Marionette	DEBUG	loaded listener.js
+1502572013044	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572013299	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572013300	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572014379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572014567	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572014572	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572014668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f9310b90b836b6&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572014669	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f9310b90b836b6&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572014705	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f9310b90b836b6&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572014707	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f9310b90b836b6&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572016077	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572016081	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572051473	geckodriver	INFO	geckodriver 0.18.0
+1502572051477	geckodriver	INFO	Listening on 127.0.0.1:33930
+1502572052622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572053184	Marionette	INFO	Enabled via --marionette
+1502572054497	Marionette	INFO	Listening on port 41544
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572054625	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502572054666	Marionette	DEBUG	loaded listener.js
+1502572057054	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572057746	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572057746	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572058837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572059030	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572059035	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572059190	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f20011d32fb516&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572059193	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f20011d32fb516&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572059219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f20011d32fb516&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572059222	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f20011d32fb516&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572060594	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572060597	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572094160	geckodriver	INFO	geckodriver 0.18.0
+1502572094165	geckodriver	INFO	Listening on 127.0.0.1:42061
+1502572095285	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572095880	Marionette	INFO	Enabled via --marionette
+1502572097208	Marionette	INFO	Listening on port 45600
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572097369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502572097428	Marionette	DEBUG	loaded listener.js
+1502572099856	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572100370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572100370	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572101654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572101869	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572101876	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572101969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f17660945d6f76e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572101971	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f17660945d6f76e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572102013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f17660945d6f76e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572102015	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f17660945d6f76e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572103427	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572103431	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572103556	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572104134	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572104135	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572104974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502572104974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1502572104974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1502572105081	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-310"
+1502572105170	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502572105177	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502572105230	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=ffd9fa438a54&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572105231	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=ffd9fa438a54&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572105231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=ffd9fa438a54&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572105233	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=ffd9fa438a54&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572105960	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502572105965	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502572396447	geckodriver	INFO	geckodriver 0.18.0
+1502572396451	geckodriver	INFO	Listening on 127.0.0.1:38186
+1502572397582	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572398251	Marionette	INFO	Enabled via --marionette
+1502572399797	Marionette	INFO	Listening on port 40884
+1502572399920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572399960	Marionette	DEBUG	loaded listener.js
+1502572402452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572402923	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572402924	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572404353	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572404608	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572404614	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572404724	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f32d5118abeae08&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572404725	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f32d5118abeae08&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572406754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f32d5118abeae08&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572406758	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f32d5118abeae08&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572407002	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572407005	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572525945	geckodriver	INFO	geckodriver 0.18.0
+1502572525952	geckodriver	INFO	Listening on 127.0.0.1:42748
+1502572527092	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572527737	Marionette	INFO	Enabled via --marionette
+1502572529125	Marionette	INFO	Listening on port 38939
+1502572529241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572529288	Marionette	DEBUG	loaded listener.js
+1502572531441	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572531743	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572531744	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572532942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572533216	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572533222	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572533335	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fb57af3358a494&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572533337	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fb57af3358a494&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572533388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fb57af3358a494&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572533390	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fb57af3358a494&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572534456	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572534458	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572854133	geckodriver	INFO	geckodriver 0.18.0
+1502572854139	geckodriver	INFO	Listening on 127.0.0.1:56299
+1502572855241	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572855973	Marionette	INFO	Enabled via --marionette
+1502572857568	Marionette	INFO	Listening on port 41311
+1502572857686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502572857730	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572860347	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572860957	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572860957	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572862066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572862614	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572862624	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572862843	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2d566f9725ef4c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572862845	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2d566f9725ef4c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572862871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2d566f9725ef4c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572862873	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2d566f9725ef4c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572864817	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572864820	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572905516	geckodriver	INFO	geckodriver 0.18.0
+1502572905519	geckodriver	INFO	Listening on 127.0.0.1:51957
+1502572906665	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502572907287	Marionette	INFO	Enabled via --marionette
+1502572908617	Marionette	INFO	Listening on port 43812
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502572908753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502572908808	Marionette	DEBUG	loaded listener.js
+1502572911268	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502572911728	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502572911729	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502572912951	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572913096	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572913101	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572914612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2673c143d40e1&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572914614	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2673c143d40e1&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572914679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2673c143d40e1&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572914682	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2673c143d40e1&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502572916667	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502572916672	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502573652910	geckodriver	INFO	geckodriver 0.18.0
+1502573652914	geckodriver	INFO	Listening on 127.0.0.1:50330
+1502573654057	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502573654647	Marionette	INFO	Enabled via --marionette
+1502573656013	Marionette	INFO	Listening on port 39948
+1502573656125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502573656172	Marionette	DEBUG	loaded listener.js
+1502573658737	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502573659016	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502573659017	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502573660308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502573660487	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502573660492	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502573660593	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2e8220379a94e8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502573660595	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2e8220379a94e8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502573660631	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2e8220379a94e8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502573660633	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2e8220379a94e8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502573661816	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502573661820	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502576615610	geckodriver	INFO	geckodriver 0.18.0
+1502576615616	geckodriver	INFO	Listening on 127.0.0.1:59035
+1502576616731	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576617326	Marionette	INFO	Enabled via --marionette
+1502576618718	Marionette	INFO	Listening on port 33421
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576618823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576618871	Marionette	DEBUG	loaded listener.js
+1502576622106	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502576623426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502576623427	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502576624342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576626465	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576662059	geckodriver	INFO	geckodriver 0.18.0
+1502576662063	geckodriver	INFO	Listening on 127.0.0.1:35629
+1502576663187	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576663807	Marionette	INFO	Enabled via --marionette
+1502576665379	Marionette	INFO	Listening on port 36752
+1502576665410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576665451	Marionette	DEBUG	loaded listener.js
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576669383	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502576671053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502576671053	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502576672045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576674019	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576736149	geckodriver	INFO	geckodriver 0.18.0
+1502576736156	geckodriver	INFO	Listening on 127.0.0.1:44196
+1502576737279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576737890	Marionette	INFO	Enabled via --marionette
+1502576739262	Marionette	INFO	Listening on port 33620
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576739375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576739416	Marionette	DEBUG	loaded listener.js
+1502576743925	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502576746210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502576746211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502576747238	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576749561	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576883234	geckodriver	INFO	geckodriver 0.18.0
+1502576883238	geckodriver	INFO	Listening on 127.0.0.1:47310
+1502576884341	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576884980	Marionette	INFO	Enabled via --marionette
+1502576886507	Marionette	INFO	Listening on port 39024
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576886556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576886592	Marionette	DEBUG	loaded listener.js
+1502576889731	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502576891094	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502576891095	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502576892049	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576894242	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576937989	geckodriver	INFO	geckodriver 0.18.0
+1502576937995	geckodriver	INFO	Listening on 127.0.0.1:45940
+1502576939136	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576939843	Marionette	INFO	Enabled via --marionette
+1502576941192	Marionette	INFO	Listening on port 35523
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576941306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576941351	Marionette	DEBUG	loaded listener.js
+1502576949710	geckodriver	INFO	geckodriver 0.18.0
+1502576949713	geckodriver	INFO	Listening on 127.0.0.1:53700
+1502576950870	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502576951520	Marionette	INFO	Enabled via --marionette
+1502576952988	Marionette	INFO	Listening on port 43772
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502576953098	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502576953144	Marionette	DEBUG	loaded listener.js
+1502576956029	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502576957395	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502576957395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502576958341	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502576960394	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502577522091	geckodriver	INFO	geckodriver 0.18.0
+1502577522094	geckodriver	INFO	Listening on 127.0.0.1:44256
+1502577523205	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502577523893	Marionette	INFO	Enabled via --marionette
+1502577525312	Marionette	INFO	Listening on port 38986
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502577525445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502577525489	Marionette	DEBUG	loaded listener.js
+1502577572449	geckodriver	INFO	geckodriver 0.18.0
+1502577572453	geckodriver	INFO	Listening on 127.0.0.1:55446
+1502577573569	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502577574200	Marionette	INFO	Enabled via --marionette
+1502577575741	Marionette	INFO	Listening on port 43256
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502577575975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502577576050	Marionette	DEBUG	loaded listener.js
+1502577576193	Marionette	DEBUG	loaded listener.js
+1502577612546	geckodriver	INFO	geckodriver 0.18.0
+1502577612550	geckodriver	INFO	Listening on 127.0.0.1:42003
+1502577613699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502577614330	Marionette	INFO	Enabled via --marionette
+1502577615750	Marionette	INFO	Listening on port 43042
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502577615881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502577615930	Marionette	DEBUG	loaded listener.js
+1502577619664	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502577620003	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502577620003	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502577620116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1502577620159	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+1502577793469	geckodriver	INFO	geckodriver 0.18.0
+1502577793475	geckodriver	INFO	Listening on 127.0.0.1:36782
+1502577794603	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502577795264	Marionette	INFO	Enabled via --marionette
+1502577796831	Marionette	INFO	Listening on port 40935
+1502577796943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502577797000	Marionette	DEBUG	loaded listener.js
+1502577801148	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502577801491	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502577801491	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502577801605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1502577801649	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+1502577996201	geckodriver	INFO	geckodriver 0.18.0
+1502577996205	geckodriver	INFO	Listening on 127.0.0.1:41683
+1502577997327	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502577998072	Marionette	INFO	Enabled via --marionette
+1502577999533	Marionette	INFO	Listening on port 46875
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502577999550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502577999597	Marionette	DEBUG	loaded listener.js
+1502578003774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502578004132	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502578004132	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502578004273	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1502578004326	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+1502578092447	geckodriver	INFO	geckodriver 0.18.0
+1502578092456	geckodriver	INFO	Listening on 127.0.0.1:34337
+1502578093580	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502578094197	Marionette	INFO	Enabled via --marionette
+1502578095555	Marionette	INFO	Listening on port 44450
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502578095690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502578095735	Marionette	DEBUG	loaded listener.js
+1502578099686	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502578100026	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502578100027	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502578100125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1502578100167	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+1502579287575	geckodriver	INFO	geckodriver 0.18.0
+1502579287578	geckodriver	INFO	Listening on 127.0.0.1:44087
+1502579288722	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502579289332	Marionette	INFO	Enabled via --marionette
+1502579290674	Marionette	INFO	Listening on port 46126
+1502579290781	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502579290837	Marionette	DEBUG	loaded listener.js
+1502579294386	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502579294720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502579294720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502579294799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "resource://pdf.js/web/"
+1502579294854	Marionette	DEBUG	Received DOM event "pageshow" for "resource://pdf.js/web/"
+1502579302121	Marionette	DEBUG	Received DOM event "beforeunload" for "resource://pdf.js/web/"
+1502579304583	Marionette	DEBUG	Received DOM event "pagehide" for "resource://pdf.js/web/"
+1502579304596	Marionette	DEBUG	Received DOM event "unload" for "resource://pdf.js/web/"
+1502579306339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579306550	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579306557	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579306687	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3824bcd1a9154a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579306690	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3824bcd1a9154a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579306710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3824bcd1a9154a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579306712	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3824bcd1a9154a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579307848	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579307851	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579309060	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579309359	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579309360	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502579309763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1502579309763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502579309764	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1502579309871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579309968	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579309974	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579310010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd36bb654247a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579310012	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd36bb654247a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579310035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd36bb654247a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579310038	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=fd36bb654247a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579310378	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579310382	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579310427	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579310784	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579310784	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-310"
+1502579311332	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1502579311333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1502579311333	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1502579311425	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579311528	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579311533	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579311563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f248d54ec3e3eb8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579311564	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f248d54ec3e3eb8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579311580	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f248d54ec3e3eb8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579311581	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f248d54ec3e3eb8&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579311937	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579311942	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579311964	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579312466	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579312467	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-299"
+1502579313225	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1502579313225	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1502579313225	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1502579313332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579313430	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579313438	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579313485	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f282c12b59e238&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579313487	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f282c12b59e238&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579313490	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f282c12b59e238&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579313492	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f282c12b59e238&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579313831	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579313836	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579313849	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579314152	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579314153	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-296"
+1502579314553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1502579314554	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1502579314555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1502579314664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579314785	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579314793	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579314850	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3731d253801d94&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579314852	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3731d253801d94&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579314852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3731d253801d94&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579314854	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f3731d253801d94&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579315174	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579315178	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579315199	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579315571	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579315572	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-293"
+1502579316016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1502579316016	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1502579316017	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1502579316125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579316209	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579316215	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579316265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f22fab8861400e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579316266	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f22fab8861400e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579316266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f22fab8861400e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579316268	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f22fab8861400e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579316622	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579316625	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579316643	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579317008	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579317008	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-298"
+1502579317510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1502579317510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1502579317510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483706"
+1502579317623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579317711	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579317716	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579317766	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1153b8e329d18e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579317767	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1153b8e329d18e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579317768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1153b8e329d18e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579317769	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1153b8e329d18e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579318125	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579318129	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579318143	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579318443	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579318444	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-297"
+1502579318965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1502579318965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1502579318965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1502579319067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579319168	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579319179	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579319229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d7f2a5792a252&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579319230	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d7f2a5792a252&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579319245	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d7f2a5792a252&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579319246	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d7f2a5792a252&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579319885	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579319889	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579319902	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579320219	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579320219	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-294"
+1502579320617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483718"
+1502579320618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483720"
+1502579320618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1502579320715	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579320821	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579320827	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579320854	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d559e7fcf78e4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579320856	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d559e7fcf78e4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579320876	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d559e7fcf78e4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579320877	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f1d559e7fcf78e4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579321215	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579321218	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579321232	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579321607	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579321608	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-278"
+1502579322019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1502579322019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483729"
+1502579322019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1502579322118	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322228	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322233	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322278	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f85bb99a9fd22c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579322279	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f85bb99a9fd22c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579322280	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f85bb99a9fd22c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579322280	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f85bb99a9fd22c&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579322614	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322617	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322637	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322943	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579322944	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-295"
+1502579323090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1502579323090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1502579323091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1502579323225	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579323340	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579323345	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579323372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2882d64007fe3a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579323374	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2882d64007fe3a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579323390	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2882d64007fe3a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579323391	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2882d64007fe3a&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502579323739	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579323743	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579323861	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579324176	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579324198	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579324199	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/licitacao-275"
+1502579324204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+1502579324204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1502579324205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1502579324205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 16948] WARNING: pipe error (3): Connection reset by peer: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400C6,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1502581185285	geckodriver	INFO	geckodriver 0.18.0
+1502581185288	geckodriver	INFO	Listening on 127.0.0.1:56669
+1502581186408	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581187064	Marionette	INFO	Enabled via --marionette
+1502581188485	Marionette	INFO	Listening on port 44999
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581188609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581188654	Marionette	DEBUG	loaded listener.js
+1502581207518	geckodriver	INFO	geckodriver 0.18.0
+1502581207528	geckodriver	INFO	Listening on 127.0.0.1:57610
+1502581208631	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581209291	Marionette	INFO	Enabled via --marionette
+1502581210749	Marionette	INFO	Listening on port 36882
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581210900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581210962	Marionette	DEBUG	loaded listener.js
+1502581252600	geckodriver	INFO	geckodriver 0.18.0
+1502581252603	geckodriver	INFO	Listening on 127.0.0.1:37064
+1502581253739	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581254373	Marionette	INFO	Enabled via --marionette
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581336591	geckodriver	INFO	geckodriver 0.18.0
+1502581336596	geckodriver	INFO	Listening on 127.0.0.1:51123
+1502581337744	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581338360	Marionette	INFO	Enabled via --marionette
+1502581339790	Marionette	INFO	Listening on port 37389
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581339861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581339902	Marionette	DEBUG	loaded listener.js
+1502581430810	geckodriver	INFO	geckodriver 0.18.0
+1502581430816	geckodriver	INFO	Listening on 127.0.0.1:49419
+1502581431954	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581432528	Marionette	INFO	Enabled via --marionette
+1502581433884	Marionette	INFO	Listening on port 40229
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581434006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581434057	Marionette	DEBUG	loaded listener.js
+1502581522830	geckodriver	INFO	geckodriver 0.18.0
+1502581522834	geckodriver	INFO	Listening on 127.0.0.1:48033
+1502581523972	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581524568	Marionette	INFO	Enabled via --marionette
+1502581525929	Marionette	INFO	Listening on port 38352
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581526045	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581526090	Marionette	DEBUG	loaded listener.js
+1502581945000	geckodriver	INFO	geckodriver 0.18.0
+1502581945004	geckodriver	INFO	Listening on 127.0.0.1:59901
+1502581946156	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581946755	Marionette	INFO	Enabled via --marionette
+1502581948110	Marionette	INFO	Listening on port 45433
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581948224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581948266	Marionette	DEBUG	loaded listener.js
+1502581951158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502581951571	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502581951571	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502581953160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581953360	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581953366	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581953528	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2366def2cece0e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581953529	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2366def2cece0e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581953530	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2366def2cece0e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581953532	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2366def2cece0e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581954130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502581954131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1502581954133	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1502581970468	geckodriver	INFO	geckodriver 0.18.0
+1502581970473	geckodriver	INFO	Listening on 127.0.0.1:48637
+1502581971607	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502581972200	Marionette	INFO	Enabled via --marionette
+1502581973596	Marionette	INFO	Listening on port 43196
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502581973713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502581973756	Marionette	DEBUG	loaded listener.js
+1502581976478	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502581976862	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502581976862	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502581979006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581979234	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581979239	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581979337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26dae9df1585a4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581979339	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26dae9df1585a4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581979376	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26dae9df1585a4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581979378	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f26dae9df1585a4&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502581980403	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581980406	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581980712	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581982003	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581982005	Marionette	DEBUG	Received DOM event "unload" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502581982969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502581982969	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+1502581982970	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1502581982989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502581984943	Marionette	DEBUG	Received DOM event "pageshow" for "http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/editais/"
+1502582003296	geckodriver	INFO	geckodriver 0.18.0
+1502582003300	geckodriver	INFO	Listening on 127.0.0.1:38970
+1502582004428	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502582005039	Marionette	INFO	Enabled via --marionette
+1502582006477	Marionette	INFO	Listening on port 44110
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1502582006588	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502582006636	Marionette	DEBUG	loaded listener.js
+1502582009147	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502582009585	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502582009585	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502582012727	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502582013003	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502582013010	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502582013109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2cd1b9cd0faf8e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502582013111	Marionette	DEBUG	Received DOM event "pageshow" for "http://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2cd1b9cd0faf8e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502582013154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2cd1b9cd0faf8e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502582013156	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/XBwzv5Yrm_1.js?version=42#channel=f2cd1b9cd0faf8e&origin=http%3A%2F%2Fwww.italva.rj.gov.br"
+1502582014262	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
+1502582014265	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.italva.rj.gov.br/ver_licitacoes"
