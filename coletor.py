@@ -54,17 +54,18 @@ class Coletor(scrapy.Spider):
         self.log(self.entes)
         for ente in self.entes:
             self.log(ente.link_licitacoes)
-            request = scrapy.Request(ente.link_licitacoes, self.classificacao_1)
+            # if(ente.id == 3):
+            request = scrapy.Request(ente.link_licitacoes, self.classificacao_2)
             request.meta['ente'] = ente
             yield request
             # ente.classificacao = classificacao
             # ente.save()
 
 
-    def classificacao_1(self, response):
+    def classificacao_2(self, response):
         
         #teste com selenium
-        
+        ente = response.meta['ente']
         
         # resultado = self.driver.find_elements_by_xpath("//div[@id='content_page_1']//a[@href='licitacao-310']")
 
@@ -74,29 +75,70 @@ class Coletor(scrapy.Spider):
         # resultado = response.xpath("//a[re:test(@href, '.*licita.*')]")
         self.log(resultado)
         try:
-            request = scrapy.Request(random.choice(resultado), self.procura_por_editais)
+            request = scrapy.Request(random.choice(resultado), self.classificacao_2_valida)
             request.meta['ente'] = response.meta['ente']
             yield request
         except:
             self.driver.get(response.url)
-            resultado = self.driver.find_elements_by_partial_link_text("reg")
+            resultado = self.driver.find_elements_by_partial_link_text("Pregão")
+            resultado += self.driver.find_elements_by_partial_link_text("pregão")
+            resultado += self.driver.find_elements_by_partial_link_text("Edital")
+            resultado += self.driver.find_elements_by_partial_link_text("edital")
+            resultado += self.driver.find_elements_by_partial_link_text("editais")
+            # resultado += self.driver.find_elements_by_partial_link_text("Licitação")
+            # resultado += self.driver.find_elements_by_partial_link_text("licitação")
+            # resultado += self.driver.find_elements_by_partial_link_text("licitações")
+            # self.log(resultado)
             # for item in resultado:
             #     self.log(item.get_attribute('href'))
-            request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.procura_por_editais)
-            request.meta['ente'] = response.meta['ente']
-            yield request
-                
+            try:
+                request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_2_valida)
+                request.meta['ente'] = response.meta['ente']
+                yield request
+            except:
+                ente.classificacao = 1
+                ente.save()    
             # print(resultado)
 
 
-            self.driver.close()
+            
         # return None
 
-    def procura_por_editais(self, response):
-        self.log(response.status)
+    def classificacao_2_valida(self, response):
+        # self.log(response.headers.getList())
+        self.log(response.headers)
         ente = response.meta['ente']
         if(response.status == 200):
             ente.classificacao = 2
             ente.save()
         # self.driver.get(response.url)
-                
+        request = scrapy.Request(ente.link_contratos, self.classificao_3)
+        request.meta['ente'] = response.meta['ente']
+        yield request
+
+    def classificao_3(self, response):
+        self.log('Classificação 3')            
+        
+        self.driver.get(response.url)
+        resultado = self.driver.find_elements_by_partial_link_text("Contrato")
+        resultado += self.driver.find_elements_by_partial_link_text("Contratos")
+        resultado += self.driver.find_elements_by_partial_link_text("contrato")
+        resultado += self.driver.find_elements_by_partial_link_text("contratos")
+        resultado += self.driver.find_elements_by_partial_link_text("Extrato")
+        resultado += self.driver.find_elements_by_partial_link_text("Extratos")
+        resultado += self.driver.find_elements_by_partial_link_text("extrato")
+        resultado += self.driver.find_elements_by_partial_link_text("extratos")
+
+        try:
+            request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_3_valida)
+            request.meta['ente'] = response.meta['ente']
+            yield request
+        except:
+            self.log('nao conseguiu')
+
+    def classificacao_3_valida(self, response):
+        self.log("valida classificação 3")
+        ente = response.meta['ente']
+        if(response.status == 200):
+            ente.classificacao = 3
+            ente.save()
