@@ -45,6 +45,10 @@ class Coletor(scrapy.Spider):
     name = 'coletor'
     start_urls = ['http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/']
     entes = []
+    palavras_licitacoes = ['Pregão', 'PREGÃO', 'pregão', 'EDITAL', 'Edital', 'editais', 'EDITAIS']
+    palavras_contratos = ['Contrato', 'Contratos', 'contrato', 'contratos', 'Extrato', 'Extratos', 'extrato', 'extratos', 'CONTRATO']
+
+
     def __init__(self):
         self.driver = webdriver.Firefox()
         self.entes = Ente.select()  
@@ -54,7 +58,7 @@ class Coletor(scrapy.Spider):
         self.log(self.entes)
         for ente in self.entes:
             self.log(ente.link_licitacoes)
-            # if(ente.id == 3):
+            # if(ente.id == 6):
             request = scrapy.Request(ente.link_licitacoes, self.classificacao_2)
             request.meta['ente'] = ente
             yield request
@@ -80,22 +84,19 @@ class Coletor(scrapy.Spider):
             yield request
         except:
             self.driver.get(response.url)
-            resultado = self.driver.find_elements_by_partial_link_text("Pregão")
-            resultado += self.driver.find_elements_by_partial_link_text("pregão")
-            resultado += self.driver.find_elements_by_partial_link_text("Edital")
-            resultado += self.driver.find_elements_by_partial_link_text("edital")
-            resultado += self.driver.find_elements_by_partial_link_text("editais")
-            # resultado += self.driver.find_elements_by_partial_link_text("Licitação")
-            # resultado += self.driver.find_elements_by_partial_link_text("licitação")
-            # resultado += self.driver.find_elements_by_partial_link_text("licitações")
-            # self.log(resultado)
-            # for item in resultado:
-            #     self.log(item.get_attribute('href'))
+
+            resultado = []
+            for item in self.palavras_licitacoes:
+                resultado += self.driver.find_elements_by_partial_link_text(item)
+                # filtro = ("//td[contains(., '%s')]/a", item)
+                resultado += self.driver.find_elements_by_xpath("//td[contains(., '"+ item +"')]/a")
+
             try:
                 request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_2_valida)
                 request.meta['ente'] = response.meta['ente']
                 yield request
             except:
+                
                 ente.classificacao = 1
                 ente.save()    
             # print(resultado)
@@ -118,23 +119,39 @@ class Coletor(scrapy.Spider):
 
     def classificao_3(self, response):
         self.log('Classificação 3')            
-        
+        ente = response.meta['ente']
         self.driver.get(response.url)
-        resultado = self.driver.find_elements_by_partial_link_text("Contrato")
-        resultado += self.driver.find_elements_by_partial_link_text("Contratos")
-        resultado += self.driver.find_elements_by_partial_link_text("contrato")
-        resultado += self.driver.find_elements_by_partial_link_text("contratos")
-        resultado += self.driver.find_elements_by_partial_link_text("Extrato")
-        resultado += self.driver.find_elements_by_partial_link_text("Extratos")
-        resultado += self.driver.find_elements_by_partial_link_text("extrato")
-        resultado += self.driver.find_elements_by_partial_link_text("extratos")
+        resultado = []
+        for item in self.palavras_contratos:
+            resultado += self.driver.find_elements_by_partial_link_text(item)
+            resultado += self.driver.find_elements_by_xpath("//td[contains(., '"+ item +"')]/a")
 
-        try:
-            request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_3_valida)
-            request.meta['ente'] = response.meta['ente']
-            yield request
-        except:
-            self.log('nao conseguiu')
+
+        #Tirei a chamada do método classificacao_3_valida, pois estava tendo dificuldade em avaliar sites em que o link estivesse em chamadas javascript,
+        #Dessa forma a validação ficou apenas através da indicação de algum termo referente a contrato na página
+        if resultado:
+            self.log(resultado)
+            ente.classificacao = 3
+            ente.save()    
+            # Scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_3_valida)
+        else:
+            self.log("nao achou")
+        # try:
+        #     request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_3_valida)
+        #     request.meta['ente'] = response.meta['ente']
+        #     yield request
+        # except:
+        #     #buscando no portal da transparencia
+        #     #buscando algo para clicar
+        #     # item = self.driver.find_element_partial_link_text()
+        #     self.driver.get(ente.link_transparencia)
+        #     achou = 0
+        #     for item in self.palavras_contratos:
+        #         achou = self.driver.assertIn(item, self.driver.page_source)
+        #         self.log(achou)
+        #     if(achou):
+        #         ente.classificacao = 3
+        #         ente.save()    
 
     def classificacao_3_valida(self, response):
         self.log("valida classificação 3")

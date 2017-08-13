@@ -41,16 +41,6 @@ if __name__ == '__main__':
         'classificacao': 1, 
         'ativo': 1
     }
-	porciuncula = {
-		'nome': 'Prefeitura Municipal de Porciúncula', 
-        'municipio': 'Porciúncula', 
-        'link_transparencia': 'http://transparencia.porciuncula.rj.gov.br:8079/transparencia/', 
-        'link_licitacoes': 'http://www.porciuncula.rj.gov.br', 
-        'link_contratos': 'http://www.porciuncula.rj.gov.br', 
-        'esfera': 'Municipal', 
-        'classificacao': 1, 
-        'ativo': 1
-    }
 	laje = {
 		'nome': 'Prefeitura Municipal de Laje do Muriaé', 
         'municipio': 'Laje do Muriaé', 
@@ -61,10 +51,38 @@ if __name__ == '__main__':
         'classificacao': 1, 
         'ativo': 1
     }
+	miracema = {
+		'nome': 'Prefeitura Municipal de Miracema', 
+        'municipio': 'Miracema', 
+        'link_transparencia': 'http://sistemas.miracema.rj.gov.br/pronimtb/index.asp', 
+        'link_licitacoes': 'http://www.miracema.rj.gov.br/transparencia/index.php?t=4&f=4287&r=0', 
+        'link_contratos': 'http://www.miracema.rj.gov.br/transparencia/index.php?t=4&f=4287&r=0', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+	natividade = {
+		'nome': 'Prefeitura Municipal de Natividade', 
+        'municipio': 'Natividade', 
+        'link_transparencia': 'http://179.109.158.34:8079/transparencia/', 
+        'link_licitacoes': 'http://natividade.rj.gov.br/index.php/licitacoes.html', 
+        'link_contratos': 'http://179.109.158.34:8079/transparencia/', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+	porciuncula = {
+		'nome': 'Prefeitura Municipal de Porciúncula', 
+        'municipio': 'Porciúncula', 
+        'link_transparencia': 'http://transparencia.porciuncula.rj.gov.br:8079/transparencia/', 
+        'link_licitacoes': 'http://www.porciuncula.rj.gov.br', 
+        'link_contratos': 'http://www.porciuncula.rj.gov.br', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
 
-
-
-	entes = [cambuci, italva, itaocara, porciuncula, laje]
+	entes = [cambuci, italva, itaocara, laje, miracema, natividade, porciuncula]
 
 	Ente.insert_many(entes).execute()
 
