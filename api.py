@@ -7,10 +7,14 @@ import falcon, json
 import peewee
 from model import Ente
 
-class ApiResource(object):
+class EnteResource(object):
 	def on_get(self, req, resp):
+		entes = Ente.select()
+		retorno = [{'id': ente.id, 'nome': ente.nome, 'municipio': ente.municipio, 'link_transparencia': ente.link_transparencia, 'link_licitacoes': ente.link_licitacoes, 'link_contratos': ente.link_contratos, 'esfera': ente.esfera, 'classificacao': ente.classificacao, 'ativo': ente.ativo} for ente in entes]
+		# print retorno
+		resp.body = json.dumps(retorno)
 		resp.status = falcon.HTTP_200
-		resp.body = ('teste')
+		
 
 
 	def on_post(self, req, resp):
@@ -31,7 +35,11 @@ class ApiResource(object):
 			novo_ente.classificacao = ente['classificacao']
 			novo_ente.ativo = ente['ativo']
 			# print(novo_ente)
-			novo_ente.save(force_insert=True)
+			try:
+				novo_ente.save(force_insert=True)
+			except:
+				novo_ente.save()
+			
 
 		# print(resp.body)
 		# print(req)
@@ -40,5 +48,5 @@ class ApiResource(object):
 		# self.log(resp.body)
 
 app = falcon.API()
-api = ApiResource()
-app.add_route('/teste', api)
+entes_api = EnteResource()
+app.add_route('/entes', entes_api)

@@ -3,8 +3,9 @@
 import scrapy
 import urlparse
 import peewee
-from model import Ente
+from model import Ente, HistoricoDeAcesso
 from selenium import webdriver
+from time import gmtime, strftime
 import random
 
 class Contrato(scrapy.Item):
@@ -60,7 +61,9 @@ class Coletor(scrapy.Spider):
             self.log(ente.link_licitacoes)
             # if(ente.id == 6):
             request = scrapy.Request(ente.link_licitacoes, self.classificacao_2)
+            historico_acesso = HistoricoDeAcesso()
             request.meta['ente'] = ente
+            request.meta['historico_acesso'] = historico_acesso
             yield request
             # ente.classificacao = classificacao
             # ente.save()
@@ -70,6 +73,7 @@ class Coletor(scrapy.Spider):
         
         #teste com selenium
         ente = response.meta['ente']
+        historico_acesso = response.meta['historico_acesso']
         
         # resultado = self.driver.find_elements_by_xpath("//div[@id='content_page_1']//a[@href='licitacao-310']")
 
@@ -81,6 +85,7 @@ class Coletor(scrapy.Spider):
         try:
             request = scrapy.Request(random.choice(resultado), self.classificacao_2_valida)
             request.meta['ente'] = response.meta['ente']
+            request.meta['historico_acesso'] = response.meta['historico_acesso']
             yield request
         except:
             self.driver.get(response.url)
@@ -94,11 +99,20 @@ class Coletor(scrapy.Spider):
             try:
                 request = scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_2_valida)
                 request.meta['ente'] = response.meta['ente']
+                request.meta['historico_acesso'] = response.meta['historico_acesso']
                 yield request
             except:
-                
+
+            
                 ente.classificacao = 1
                 ente.save()    
+
+                historico_acesso.licitacoes = 0
+                historico_acesso.contratos = 0
+                historico_acesso.portal_transparencia = 0
+                historico_acesso.data_hora = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+                historico_acesso.ente = ente
+                historico_acesso.save()
             # print(resultado)
 
 
@@ -109,17 +123,27 @@ class Coletor(scrapy.Spider):
         # self.log(response.headers.getList())
         self.log(response.headers)
         ente = response.meta['ente']
+        historico_acesso = response.meta['historico_acesso']
         if(response.status == 200):
             ente.classificacao = 2
             ente.save()
+
+            historico_acesso.licitacoes = 1
+            historico_acesso.contratos = 0
+            historico_acesso.portal_transparencia = 0
+            historico_acesso.data_hora = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+            historico_acesso.ente = ente
+            historico_acesso.save()
         # self.driver.get(response.url)
         request = scrapy.Request(ente.link_contratos, self.classificao_3)
         request.meta['ente'] = response.meta['ente']
+        request.meta['historico_acesso'] = response.meta['historico_acesso']
         yield request
 
     def classificao_3(self, response):
         self.log('Classificação 3')            
         ente = response.meta['ente']
+        historico_acesso = response.meta['historico_acesso']
         self.driver.get(response.url)
         resultado = []
         for item in self.palavras_contratos:
@@ -133,6 +157,13 @@ class Coletor(scrapy.Spider):
             self.log(resultado)
             ente.classificacao = 3
             ente.save()    
+
+            historico_acesso.licitacoes = 1
+            historico_acesso.contratos = 1
+            historico_acesso.portal_transparencia = 0
+            historico_acesso.data_hora = strftime("%Y-%m-%d %H:%M:%S", gmtime())
+            historico_acesso.ente = ente
+            historico_acesso.save()
             # Scrapy.Request(random.choice(resultado).get_attribute('href'), self.classificacao_3_valida)
         else:
             self.log("nao achou")
@@ -156,6 +187,7 @@ class Coletor(scrapy.Spider):
     def classificacao_3_valida(self, response):
         self.log("valida classificação 3")
         ente = response.meta['ente']
+        historico_acesso = response.meta['historico_acesso']
         if(response.status == 200):
             ente.classificacao = 3
             ente.save()
