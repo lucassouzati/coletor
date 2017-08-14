@@ -11,6 +11,26 @@ if __name__ == '__main__':
 		Ente.drop_table()
 		Ente.create_table()
 
+	aperibe = {
+		'nome': 'Prefeitura Municipal de Aperibé', 
+        'municipio': 'Aperibé', 
+        'link_transparencia': 'http://www.aperibe.rj.gov.br/portal', 
+        'link_licitacoes': 'http://aperibe.rj.gov.br/licitacao', 
+        'link_contratos': 'http://aperibe.rj.gov.br/licitacao', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+	bomjesus = {
+		'nome': 'Prefeitura Municipal de Bom Jesus do Itabapoana', 
+        'municipio': 'Bom Jesus do Itabapoana', 
+        'link_transparencia': 'http://www.bomjesus.rj.gov.br/portal', 
+        'link_licitacoes': 'https://bomjesus.rj.gov.br/site/ver_licitacoes-13', 
+        'link_contratos': 'https://bomjesus.rj.gov.br/site/ver_licitacoes-13', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
 	cambuci = {
 	    'nome': 'Prefeitura Municipal de Cambuci', 
         'municipio': 'Cambuci', 
@@ -81,6 +101,37 @@ if __name__ == '__main__':
         'classificacao': 1, 
         'ativo': 1
     }
+	santoantoniodepadua = {
+		'nome': 'Prefeitura Municipal de Santo Antônio de Pádua', 
+        'municipio': 'Santo Antônio de Pádua', 
+        'link_transparencia': 'http://santoantoniodepadua.rj.gov.br/transparencia/index.php', 
+        'link_licitacoes': 'http://santoantoniodepadua.rj.gov.br/transparencia/index.php?t=19&f=4737&r=0', 
+        'link_contratos': 'http://santoantoniodepadua.rj.gov.br/transparencia/index.php?t=19&f=4126&r=0', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+	saojosedeuba = {
+		'nome': 'Prefeitura Municipal de São José de Ubá', 
+        'municipio': 'São José de Ubá', 
+        'link_transparencia': 'http://transparencia.saojosedeuba.rj.gov.br/transparenciafinancas/', 
+        'link_licitacoes': 'http://www.saojosedeuba.rj.gov.br/site/licitacoes', 
+        'link_contratos': 'http://www.saojosedeuba.rj.gov.br/site/licitacoes', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+	varresai = {
+		'nome': 'Prefeitura Municipal de Varre-Sai', 
+        'municipio': 'Varre-Sai', 
+        'link_transparencia': 'http://www.varresai.rj.gov.br/site/ver_relatorios-86', 
+        'link_licitacoes': 'http://www.varresai.rj.gov.br/site/ver_licitacoes-49', 
+        'link_contratos': 'http://www.varresai.rj.gov.br', 
+        'esfera': 'Municipal', 
+        'classificacao': 1, 
+        'ativo': 1
+    }
+
 
 	entes = [cambuci, italva, itaocara, laje, miracema, natividade, porciuncula]
 

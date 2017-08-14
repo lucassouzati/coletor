@@ -46,7 +46,7 @@ class Coletor(scrapy.Spider):
     start_urls = ['http://prefeituradecambuci.rj.gov.br/transparencia/licitacoes/']
     entes = []
     palavras_licitacoes = ['Pregão', 'PREGÃO', 'pregão', 'EDITAL', 'Edital', 'editais', 'EDITAIS']
-    palavras_contratos = ['Contrato', 'Contratos', 'contrato', 'contratos', 'Extrato', 'Extratos', 'extrato', 'extratos', 'CONTRATO']
+    palavras_contratos = ['Contrato', 'Contratos', 'contrato', 'contratos', 'Extrato', 'Extratos', 'extrato', 'extratos', 'CONTRATO', 'ATA DE REGISTRO', 'Ata de Registro']
 
 
     def __init__(self):
