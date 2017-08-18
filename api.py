@@ -5,7 +5,7 @@
 # Let's get this party started!
 import falcon, json
 import peewee
-from model import Ente
+from model import Ente, HistoricoDeAcesso
 
 class EnteResource(object):
 	def on_get(self, req, resp):
@@ -39,7 +39,13 @@ class EnteResource(object):
 				novo_ente.save(force_insert=True)
 			except:
 				novo_ente.save()
-			
+class HistoricoDeAcessoResource(object):
+	def on_get(self,req,resp):
+		historicos_de_acesso = HistoricoDeAcesso.select()
+		retorno = [{'id': historico_de_acesso.id, 'licitacoes': historico_de_acesso.licitacoes, 'contratos': historico_de_acesso.contratos, 'portal_transparencia': historico_de_acesso.portal_transparencia, 'data_hora': historico_de_acesso.data_hora.strftime("%Y-%m-%d %H:%M:%S"), 'ente_id': historico_de_acesso.ente.id} for historico_de_acesso in historicos_de_acesso]
+		print retorno
+		resp.body = json.dumps(retorno)
+		resp.status = falcon.HTTP_200
 
 		# print(resp.body)
 		# print(req)
@@ -49,4 +55,6 @@ class EnteResource(object):
 
 app = falcon.API()
 entes_api = EnteResource()
+historico_de_acesso_api = HistoricoDeAcessoResource()
 app.add_route('/entes', entes_api)
+app.add_route('/historicos_de_acesso', historico_de_acesso_api)
